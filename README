@@ -5,6 +5,10 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+imdb-cli
+  Clone imdb-cli site:
+  $ git clone https://github.com/bgr/imdb-cli
+
 links.txt
   Movie metadata related links
 
