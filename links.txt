@@ -1,0 +1,17 @@
+links.txt
+Created Mon Jun 13 23:03:06 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Movie metadata related links
+
+
+Links
+=====
+Your own movie database in 5 minutes with IMDb API and Perl
+November 21, 2011
+http://bobbelderbos.com/2011/11/movie-database-imdb-api-perl/
+
+Your movie site in just one minute
+February 23rd, 2016
+http://bobbelderbos.com/2016/02/movie-site-in-minute-omdb-api-python/
