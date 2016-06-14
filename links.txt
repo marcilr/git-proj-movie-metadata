@@ -8,6 +8,9 @@ Movie metadata related links
 
 Links
 =====
+*NIX command line tool for retrieving IMDb movie information
+https://github.com/bgr/imdb-cli
+
 IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about
 movies, people, characters and companies.
 http://imdbpy.sourceforge.net/
