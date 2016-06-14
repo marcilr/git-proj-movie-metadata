@@ -3,10 +3,6 @@ Created Mon Jun 13 23:01:58 AKDT 2016
 Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Clone own_movie_site repo:
-$ git clone https://github.com/bbelderbos/own_movie_site
-
-
 Filelist
 ========
 links.txt
@@ -14,3 +10,8 @@ links.txt
 
 movie-metadata.txt
   Movie metadata
+
+own_movie_site/
+  Clone own_movie_site repo:
+  $ git clone https://github.com/bbelderbos/own_movie_site
+
