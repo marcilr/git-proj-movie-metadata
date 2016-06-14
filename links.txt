@@ -24,6 +24,11 @@ The OMDb API is a free web service to obtain movie information, all content and 
 are contributed and maintained by our users.
 http://omdbapi.com/
 
+Python wrapper around OMDb API (Open Movie Database):
+  http://omdbapi.com http://omdbpy.readthedocs.org
+This looks like a great api for creating the application I want.
+https://github.com/dgilland/omdb.py                                <===
+
 Your own movie database in 5 minutes with IMDb API and Perl
 November 21, 2011
 http://bobbelderbos.com/2011/11/movie-database-imdb-api-perl/
