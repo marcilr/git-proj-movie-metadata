@@ -8,6 +8,10 @@ Movie metadata related links
 
 Links
 =====
+IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about
+movies, people, characters and companies.
+http://imdbpy.sourceforge.net/
+
 OMDb API
 The Open Movie Database
 The OMDb API is a free web service to obtain movie information, all content and images on the site
