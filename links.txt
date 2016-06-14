@@ -8,9 +8,19 @@ Movie metadata related links
 
 Links
 =====
+OMDb API
+The Open Movie Database
+The OMDb API is a free web service to obtain movie information, all content and images on the site
+are contributed and maintained by our users.
+http://omdbapi.com/
+
 Your own movie database in 5 minutes with IMDb API and Perl
 November 21, 2011
 http://bobbelderbos.com/2011/11/movie-database-imdb-api-perl/
+
+Your own movie site in less than one minute with OMDb API and Python
+gtihub repo
+https://github.com/bbelderbos/own_movie_site
 
 Your movie site in just one minute
 February 23rd, 2016
